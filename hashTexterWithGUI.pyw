@@ -1,6 +1,6 @@
 
 import tkinter as tk
-import h4shTexterFunction as hashtxt
+import hashTexterFunction as hashtxt
 
 def encrypt():
   ciphertext.delete("1.0", tk.END)
